@@ -1,4 +1,4 @@
-# Paging-Library
+# Paging
 
 Android library for creating simple pagination functionality (infinite scrolling) upon RecyclerView.
 
